@@ -736,13 +736,13 @@ Wire Wire Line
 $Comp
 L Conn_01x02 J7
 U 1 1 5AF4A05E
-P 5650 2800
-F 0 "J7" H 5650 2900 50  0000 C CNN
-F 1 "Conn_01x02" H 5650 2600 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 5650 2800 50  0001 C CNN
-F 3 "" H 5650 2800 50  0001 C CNN
-	1    5650 2800
-	1    0    0    -1  
+P 5250 2900
+F 0 "J7" H 5250 3000 50  0000 C CNN
+F 1 "Conn_01x02" H 5250 2700 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 5250 2900 50  0001 C CNN
+F 3 "" H 5250 2900 50  0001 C CNN
+	1    5250 2900
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	5450 2900 5450 3100
