@@ -5,7 +5,7 @@ The XyloShield DMX is a simple Shield for Arduinos like the Uno that has two fun
 Both functions are completely separate, so the board can also be populated only partially to support the function you want.
 The board was designed using KiCad (my first project with that package, so be warned!).
 
-![Photo of the finished XyloShield DMX on an Arduino Uno](images/XyloShieldDMX.jpg)	
+![Photo of the finished XyloShield DMX on an Arduino Uno](doc/XyloShieldDMX.jpg)
 
 Radio
 -----
@@ -41,3 +41,23 @@ D2 -> Receive/Transmit select
 
 The DMX part is comprised of the following components (that can be left unpopulated if you do not need this functionality):
 C2, J1, J2, J3, J4, J5, R1, R2, R3, R4, U2
+
+BOM
+---
+
+| Part      | Value                      | Conrad Electronics order nr. | 
+|-----------|----------------------------|------------------------------|
+| C1-C3     | 100 nF, 25 V, 0603         | 1279656                      |
+| J1        | Neutrik NC3MAAH            | 651105                       |
+| J2        | Neutrik NC3FAAH1           | 651095                       |
+| J3-J5, J7 | 2,54 mm pin header         | 1390109                      |
+| J6        | RP-SMA connector           | 1565639                      |
+| R1, R3    | 562 Ohms, 0603             | 437643                       |
+| R2        | 133 Ohms, 0603             | 433625                       |
+| R4, R5    | 10 k, 0603                 | 1208549                      |
+| U1        | 74HC4050, SOIC-16          | 1015779                      |
+| U2        | SN75176, SOIC-8            | 1048058                      |
+| U3        | RFM26W                     | -                            |
+| -         | Matching antenna           | 673977                       |
+| -         | 32 pins 2,54 mm pin header | 1390109                      |
+| -         | 4 jumper caps              | 1560848                      |
