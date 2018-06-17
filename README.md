@@ -60,4 +60,5 @@ BOM
 | U3        | RFM26W                     | -                            |
 | -         | Matching antenna           | 673977                       |
 | -         | 32 pins 2,54 mm pin header | 1390109                      |
+| -         | 2x3 pins socket            | 1492284                      |
 | -         | 4 jumper caps              | 1560848                      |
