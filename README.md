@@ -7,6 +7,8 @@ The board was designed using KiCad (my first project with that package, so be wa
 
 ![Photo of the finished XyloShield DMX on an Arduino Uno](doc/XyloShieldDMX.jpg)
 
+There is also an Arduino library for the shield: XyloLibrary (https://github.com/StefanKrupop/XyloLibrary)
+
 Radio
 -----
 
